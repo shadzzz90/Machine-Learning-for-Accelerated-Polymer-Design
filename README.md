@@ -47,11 +47,11 @@ Discover an improvement or have an interesting idea? Notebook contributions are 
 Though this is an unofficial implementation, please credit the original authors when using or referencing this work:
 
 ```bibtex
-@article{originalauthorsYear,
+@article{Kanakkithodi2016,
   title={Machine Learning Strategy for Accelerated Design of Polymer Dielectrics},
   author={Arun Mannodi-Kanakkithodi, Ghanshyam Pilania, Tran Doan Huan, Turab Lookman & Rampi Ramprasad },
-  journal={Original Journal},
-  year={Publication Year}
+  journal={Scientific Reports},
+  year={2016}
 }
 ```
 
