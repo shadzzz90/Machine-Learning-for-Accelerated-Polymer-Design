@@ -61,9 +61,7 @@ Though this is an unofficial implementation, please credit the original authors 
 
 This project is under the MIT License. More details in [LICENSE.md](LICENSE.md).
 
-## Queries:
 
-For questions or support, create an issue here on GitHub or reach out at [email@example.com](mailto:email@example.com).
 
 ---
 
