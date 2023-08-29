@@ -7,9 +7,9 @@ This repository provides Jupyter Notebooks as an unofficial implementation of th
 
 ## Notebooks Structure:
 
-1. **[Polymer Fingerprinting](PolymerKRR.ipynb)**: This notebook implements a Kernel Ridge Regression usig Sci-Kit learn library following the polymer fingerprinting I discussed in the paper.
-2. **[Polymer Fingerprinting](PolymerKRR_FingerPrintII.ipynb)**: This notebook implements a Kernel Ridge Regression usig Sci-Kit learn library following the polymer fingerprinting II discussed in the paper.
-3. **[Polymer Fingerprinting](PolymerKRR_FingerPrintIII.ipynb)**: This notebook implements a Kernel Ridge Regression usig Sci-Kit learn library following the polymer fingerprinting III discussed in the paper.
+1. **[Polymer Fingerprinting I](PolymerKRR.ipynb)**: This notebook implements a Kernel Ridge Regression usig Sci-Kit learn library following the polymer fingerprinting I discussed in the paper.
+2. **[Polymer Fingerprinting II](PolymerKRR_FingerPrintII.ipynb)**: This notebook implements a Kernel Ridge Regression usig Sci-Kit learn library following the polymer fingerprinting II discussed in the paper.
+3. **[Polymer Fingerprinting III](PolymerKRR_FingerPrintIII.ipynb)**: This notebook implements a Kernel Ridge Regression usig Sci-Kit learn library following the polymer fingerprinting III discussed in the paper.
    
 
 
