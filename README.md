@@ -7,9 +7,9 @@ This repository provides Jupyter Notebooks as an unofficial implementation of th
 
 ## Notebooks Structure:
 
-1. **[Polymer Fingerprinting](link_to_notebook_1.ipynb)**: Explore how we represent polymers in an easily attainable numerical format.
+1. **[Polymer Fingerprinting](PolymerKRR.ipynb)**: Explore how the authors represent polymers in an easily attainable numerical format.
    
-2. **[ML Model Training](link_to_notebook_2.ipynb)**: A step-by-step guide to training our machine learning model using polymer fingerprints.
+2. **[ML Model Training](link_to_notebook_2.ipynb)**: A step-by-step guide to training the machine learning model using polymer fingerprints.
 
 
 
