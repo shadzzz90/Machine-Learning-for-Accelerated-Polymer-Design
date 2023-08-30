@@ -29,7 +29,7 @@ This repository provides Jupyter Notebooks as an unofficial implementation of th
 
 1. Clone the repository:
    ```bash
-   git clone [repository-link]
+   git clone https://github.com/shadzzz90/Machine-Learning-for-Accelerated-Polymer-Design-Ploymer-
    ```
 
 2. Navigate to the repository and start Jupyter:
