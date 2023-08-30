@@ -40,10 +40,6 @@ This repository provides Jupyter Notebooks as an unofficial implementation of th
 
 3. Open the desired notebook from the Jupyter interface in your browser.
 
-## Contributing:
-
-Discover an improvement or have an interesting idea? Notebook contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidance.
-
 ## Citation:
 
 Though this is an unofficial implementation, please credit the original authors when using or referencing this work:
@@ -57,9 +53,6 @@ Though this is an unofficial implementation, please credit the original authors 
 }
 ```
 
-## License:
-
-This project is under the MIT License. More details in [LICENSE.md](LICENSE.md).
 
 
 
